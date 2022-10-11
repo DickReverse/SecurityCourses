@@ -24,10 +24,11 @@ Tous les cours en detail sont accessibles à l'adresse https://portswigger.net/w
 <img width="1185" alt="image" src="https://user-images.githubusercontent.com/11661521/195180452-c8b06b90-a105-42b4-894a-c08689e0a0c0.png">
 
 
-# Instructions
+# Instructions / Setup
 
 * Installer VM Kali ou distro. Linux (https://www.kali.org/get-kali/) avec a minima Burp Suite Free (https://portswigger.net/burp) 
-* S'enregistrer sur https://portswigger.net/users
+* S'enregistrer sur https://portswigger.net/users (Nécessaire pour les TPs)
+* Configurer son browser ou OS avec certificat Burp (https://portswigger.net/burp/documentation/desktop/external-browser-config/certificate) 
 
 
 # Introduction (30 min.-1h) 
