@@ -1,0 +1,22 @@
+- 14/10 : Introduction + Securite/pentest web
+    - TP : [https://portswigger.net/web-security/all-labs](https://portswigger.net/web-security/all-labs)
+- 14/11 (demi-journee) : securite web
+    - TP : [https://portswigger.net/web-security/all-labs](https://portswigger.net/web-security/all-labs)
+- 18/11 : Pentest systeme / Metasploit
+    - TP : [hackthebox](https://www.hackthebox.com/)
+        - Scan reseau
+        - Identification faille
+        - Exploitation
+        - Elevation de privilege
+    - Focus sur l’initial access : [https://attack.mitre.org/tactics/TA0001/](https://attack.mitre.org/tactics/TA0001/)
+- 14/12 : Pentest Active Directory / Lateral movement
+    - TP :
+        - hackthebox
+            - lateral movement
+            - Elevation de privilege sur un AD (Kerberoasting, ADCS abuse, Credential stuffing, etc.-)
+        - custom lab sur Azure/AWS
+        - [https://www.pentesteracademy.com/activedirectorylab](https://www.pentesteracademy.com/activedirectorylab)
+- 16/12 : Outils Red team - Command & Control
+    - TP :
+        - Construire un mini-C2
+        - Ecrire un rapport de pentest
