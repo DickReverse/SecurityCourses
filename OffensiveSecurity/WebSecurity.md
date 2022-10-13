@@ -120,6 +120,11 @@ https://portswigger.net/web-security/cross-site-scripting/contexts/lab-onclick-e
 * Warm-up : https://portswigger.net/web-security/logic-flaws/examples/lab-logic-flaws-excessive-trust-in-client-side-controls
 * TP : https://portswigger.net/web-security/logic-flaws/examples/lab-logic-flaws-low-level
 
+### IDOR / Access Control
+* WU : https://portswigger.net/web-security/access-control/lab-insecure-direct-object-references
+* TD/TP : https://portswigger.net/web-security/access-control/lab-url-based-access-control-can-be-circumvented
+
+
 ## Exam (Later)
 
 Mystery challenge 
