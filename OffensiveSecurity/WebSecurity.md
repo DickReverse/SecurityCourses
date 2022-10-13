@@ -31,13 +31,16 @@ Tous les cours en detail sont accessibles à l'adresse https://portswigger.net/w
 * Configurer son browser ou OS avec certificat Burp (https://portswigger.net/burp/documentation/desktop/external-browser-config/certificate) 
 
 
-# Introduction (30 min.-1h) 
+# Course Plan
+## Introduction (30 min.-1h) 
 
 Support presente pendant les cours. 
 
-# TD (2h.) 
+## Tutorials / TD (2h.) 
 
 
-# TP (3h30.)
+## Supervised Work / TP (3h30.)
 
 Mystery challenge 
+
+## Exam (Later)
