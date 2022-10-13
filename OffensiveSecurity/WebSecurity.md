@@ -115,6 +115,9 @@ https://portswigger.net/web-security/cross-site-scripting/contexts/lab-onclick-e
 * WU : https://portswigger.net/web-security/authentication/multi-factor/lab-2fa-simple-bypass
 * TD : https://portswigger.net/web-security/authentication/multi-factor/lab-2fa-bypass-using-a-brute-force-attack 
 
+### JWT
+* WU : https://portswigger.net/web-security/jwt/lab-jwt-authentication-bypass-via-unverified-signature
+* TD/TP : https://portswigger.net/web-security/jwt/lab-jwt-authentication-bypass-via-flawed-signature-verification
 
 ### Business logic vulnerabilities
 * Warm-up : https://portswigger.net/web-security/logic-flaws/examples/lab-logic-flaws-excessive-trust-in-client-side-controls
