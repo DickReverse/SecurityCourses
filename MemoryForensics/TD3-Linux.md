@@ -15,8 +15,10 @@ Execute the following code, with a root shell, in the Linux machine you want to 
 ```
 
 Output will be in LIME format.
+
 ## Building the profile
--Before creating your own profile (Volatility 2) or symbol table (Volatility 3), try to find in the shared ones:
+
+- Before creating your own profile (Volatility 2) or symbol table (Volatility 3), try to find in the shared ones:
     -   [Volatility 2 Profiles](https://github.com/volatilityfoundation/profiles/)
     -   [Volatility 3 Profiles](https://github.com/volatilityfoundation/volatility3#symbol-tables)
 
@@ -28,10 +30,10 @@ cd tools/linux/
 make
 ```
 
--   -   If you get `ERROR: modpost: missing MODULE_LICENSE()` error in `make` command, follow the solution below:
-        -   The solution is simply to add `MODULE_LICENSE("GPL");` as last line in `volatility/tools/linux/module.c`
-    -   If you get `bin/sh: 1: dwarfdump: not found` error in `make` command, install the `dwarfdump` package.
-        -   `sudo apt install dwarfdump`
+-   If you get `ERROR: modpost: missing MODULE_LICENSE()` error in `make` command, follow the solution below:
+    -   The solution is simply to add `MODULE_LICENSE("GPL");` as last line in `volatility/tools/linux/module.c`
+-   If you get `bin/sh: 1: dwarfdump: not found` error in `make` command, install the `dwarfdump` package.
+    -   `sudo apt install dwarfdump`
 
 -   You should see a new `module.dwarf` file. You also need the `System.map` file in the `/boot` directory as it contains all symbols related to the currently running kernel.
 
@@ -62,4 +64,4 @@ volatility --info | grep [Distribution]
 ```
 
 A few commands to run : 
-![[Pasted image 20221020225045.png]]
+![image](https://user-images.githubusercontent.com/11661521/197055555-39f50613-dc00-472a-ae40-305a1f6c581c.png)
