@@ -49,6 +49,7 @@ You'll find the 32-character flag within that process's memory.
 
 ## Question #3 What is the MAC address of this machine's default gateway? 
 The flag is the MD5 hash of that MAC address in uppercase with dashes (-) as delimiters. Example: 01-00-A4-FB-AF-C2. 
+Link :  https://blasteh.uk/windows/registry.html
 
 ## Question #4 Find the full path of the browser cache created when an analyst visited "www.13cubed.com." 
 The path will begin with "Users\." Convert the path to uppercase. The flag is the MD5 hash of that string.
