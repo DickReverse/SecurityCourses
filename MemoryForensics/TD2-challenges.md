@@ -35,6 +35,10 @@ List the command.
 https://drive.google.com/drive/folders/1E-i2RTUBXBGUd_Xz0k67kFOpHcr6WX8J
 Solution : https://www.13cubed.com/downloads/mini_memory_ctf_solutions_guide.pdf
 
+```
+python2 volatility/vol.py -f /data/13Cubed/memdump.mem --profile=Win10x64_17134 pslist
+```
+
 ## Question #1 Find the running rogue (malicious) process. 
 The flag is the MD5 hash of its PID. 
 
