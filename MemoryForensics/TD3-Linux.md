@@ -25,7 +25,9 @@ Output will be in LIME format.
 -   Go to `tools/linux` in Volatility directory and run `make` command:
 
 ```
+git clone https://github.com/volatilityfoundation/volatility.git
 sudo apt install linux-image-$(uname -r) linux-headers-$(uname -r)
+apt-get install build-essential
 cd tools/linux/
 make
 ```
