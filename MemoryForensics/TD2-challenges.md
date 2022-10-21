@@ -57,5 +57,9 @@ The path will begin with "Users\." Convert the path to uppercase. The flag is th
 ## MemLabs 
 Link : https://github.com/stuxnet999/MemLabs
 
-Do as many challenges from this lab as possible.
+### MemLabs 1 - Beginner's Luck
+Profile: Win7SP0x64
+
+### MemLabs 2 - A New World
+Profile 
 
