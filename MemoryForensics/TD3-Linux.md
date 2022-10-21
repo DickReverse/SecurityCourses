@@ -36,6 +36,7 @@ make
     -   The solution is simply to add `MODULE_LICENSE("GPL");` as last line in `volatility/tools/linux/module.c`
 -   If you get `bin/sh: 1: dwarfdump: not found` error in `make` command, install the `dwarfdump` package.
     -   `sudo apt install dwarfdump`
+- For Kali - https://computingforgeeks.com/how-to-install-linux-kernel-headers-on-kali-linux/
 
 -   You should see a new `module.dwarf` file. You also need the `System.map` file in the `/boot` directory as it contains all symbols related to the currently running kernel.
 
