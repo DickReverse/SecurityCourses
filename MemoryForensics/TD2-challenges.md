@@ -58,8 +58,8 @@ The path will begin with "Users\." Convert the path to uppercase. The flag is th
 Link : https://github.com/stuxnet999/MemLabs
 
 ### MemLabs 1 - Beginner's Luck
-Profile: Win7SP0x64
+Profile: Win7SP1x64
 
 ### MemLabs 2 - A New World
-Profile 
+Profile: Win7SP1x64 
 
